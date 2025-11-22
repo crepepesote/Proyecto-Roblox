@@ -1,4 +1,4 @@
-# 📘 README — Cómo abrir y ejecutar los archivos `.rbxl`
+# 📘 Cómo abrir y ejecutar los archivos `.rbxl`
 
 Este proyecto incluye dos archivos de Roblox Studio:
 
@@ -119,3 +119,4 @@ Si tienes dificultades:
 ---
 
 **¡Disfruta explorando el proyecto! 🎮✨**
+
